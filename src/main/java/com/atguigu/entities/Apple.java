@@ -8,7 +8,7 @@ package src.main.java.com.atguigu.entities;
  **/
 public class Apple {
 
-  private String appName = "good apple";
+  private String appName = "good apple dev";
 
   public String getAppName() {
     return appName;
